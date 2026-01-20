@@ -1,0 +1,15 @@
+/workspaces/dev/Lecture 3 OOP/bin/Debug/net10.0/Lecture 3 OOP
+/workspaces/dev/Lecture 3 OOP/bin/Debug/net10.0/Lecture 3 OOP.deps.json
+/workspaces/dev/Lecture 3 OOP/bin/Debug/net10.0/Lecture 3 OOP.runtimeconfig.json
+/workspaces/dev/Lecture 3 OOP/bin/Debug/net10.0/Lecture 3 OOP.dll
+/workspaces/dev/Lecture 3 OOP/bin/Debug/net10.0/Lecture 3 OOP.pdb
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.AssemblyInfoInputs.cache
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.AssemblyInfo.cs
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.csproj.CoreCompileInputs.cache
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.sourcelink.json
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.dll
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/refint/Lecture 3 OOP.dll
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.pdb
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/Lecture 3 OOP.genruntimeconfig.cache
+/workspaces/dev/Lecture 3 OOP/obj/Debug/net10.0/ref/Lecture 3 OOP.dll
