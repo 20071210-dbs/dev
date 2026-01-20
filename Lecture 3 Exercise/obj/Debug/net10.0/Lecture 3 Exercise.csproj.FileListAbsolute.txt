@@ -1,0 +1,15 @@
+/workspaces/dev/Lecture 3 Exercise/bin/Debug/net10.0/Lecture 3 Exercise
+/workspaces/dev/Lecture 3 Exercise/bin/Debug/net10.0/Lecture 3 Exercise.deps.json
+/workspaces/dev/Lecture 3 Exercise/bin/Debug/net10.0/Lecture 3 Exercise.runtimeconfig.json
+/workspaces/dev/Lecture 3 Exercise/bin/Debug/net10.0/Lecture 3 Exercise.dll
+/workspaces/dev/Lecture 3 Exercise/bin/Debug/net10.0/Lecture 3 Exercise.pdb
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.AssemblyInfoInputs.cache
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.AssemblyInfo.cs
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.csproj.CoreCompileInputs.cache
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.sourcelink.json
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.dll
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/refint/Lecture 3 Exercise.dll
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.pdb
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/Lecture 3 Exercise.genruntimeconfig.cache
+/workspaces/dev/Lecture 3 Exercise/obj/Debug/net10.0/ref/Lecture 3 Exercise.dll
