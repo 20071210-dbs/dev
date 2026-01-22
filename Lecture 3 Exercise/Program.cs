@@ -1,5 +1,4 @@
 ﻿using System;
-
 public abstract class PaymentProcessor
 {
     public abstract void ProcessPayment(double amount);
